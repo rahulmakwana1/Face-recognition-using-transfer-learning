@@ -53,3 +53,6 @@ that have weights. This network is a pretty large network and it has about 138 m
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200219152207/new41.jpg)
 
+# NOTE :-
+last cell which is used for the real time face recognition
+
